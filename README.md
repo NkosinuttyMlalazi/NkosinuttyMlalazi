@@ -60,7 +60,7 @@ Here are a few tech-focused projects I’ve worked on or contributed to:
 
 ## 📫 Let's Connect
 
-- 🌍 [LinkedIn](://www.linkedin.com/in/nkosinathi-mlalazi-34b817139/) *(replace with your real link)*
+- 🌍 [LinkedIn]() *(://www.linkedin.com/in/nkosinathi-mlalazi-34b817139/)*
 - 📧 Email: **Nkosinathi.Mlalazi@capaciti.org.za**
 - ☁️ Always learning, always evolving in IT & AI!
 
