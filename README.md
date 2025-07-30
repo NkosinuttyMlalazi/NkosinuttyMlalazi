@@ -11,8 +11,9 @@ I'm an enthusiastic and dedicated **IT Support Technician** with a passion for s
 - 🔧 Experienced in **technical support**, **troubleshooting**, and **system maintenance**
 - 🖥️ Knowledgeable in **Windows, macOS, and Linux operating systems**
 - 🛠️ Proficient with **Active Directory**, **Office 365**, and **remote desktop tools**
+- 🤖 Exploring the intersection between **IT support and AI solutions**
 - 🧠 Passionate about **cybersecurity**, **user education**, and **IT best practices**
-- 🌐 Currently learning more about **cloud services** (Azure, AWS) and **network security**
+- 🌐 Currently learning more about **cloud services**, **automation**, and **AI integration**
 - 📍 Based in South Africa | Open to remote and hybrid opportunities
 
 ---
@@ -27,16 +28,18 @@ I'm an enthusiastic and dedicated **IT Support Technician** with a passion for s
   - Microsoft Office Suite / Office 365 Admin Center
   - Active Directory & Group Policy
   - Ticketing systems (Jira, Freshdesk, Zendesk)
+- ⚙️ **Automation & AI Tools:** Prompt Engineering, No-code AI Apps, ChatGPT API
 - 📦 **Backup & Recovery:** Windows Backup, Acronis, OneDrive
 
 ---
 
 ## 🧠 Certifications & Training
 
-- 🎓 **CompTIA A+** (In Progress or Completed)
-- 🎓 **Google IT Support Certificate** – Coursera
-- 🎓 **Cybersecurity Awareness Training**
-- 🧠 Self-learning from platforms like LinkedIn Learning, TryHackMe, and Udemy
+- ✅ **CompTIA A+**
+- ✅ **CompTIA Network+ (N+)**
+- ✅ **Microsoft Certified Solutions Associate (MCSA)**
+- ✅ **AI Bootcamp** – *AI Foundations & Generative AI with Large Language Models*
+- 🧠 Self-learning via LinkedIn Learning, TryHackMe, Coursera, and Udemy
 
 ---
 
@@ -50,34 +53,18 @@ Here are a few tech-focused projects I’ve worked on or contributed to:
 - 🔐 [Cybersecurity Basics for Beginners](https://github.com/yourusername/cybersecurity-basics)  
   Educational material on how users can protect themselves online.
 
-- 🌐 [IT Support Toolkit](https://github.com/yourusername/it-support-toolkit)  
-  A collection of PowerShell scripts and tips used in day-to-day support.
+- 🤖 [AI Support Assistant Concept](https://github.com/yourusername/ai-support-assistant)  
+  Combining IT support experience with no-code AI chatbot tools.
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌍 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- ☁️ Learning & growing every day in the IT world!
+- 🌍 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your real link)*
+- 📧 Email: **Nkosinathi.Mlalazi@capaciti.org.za**
+- ☁️ Always learning, always evolving in IT & AI!
 
 ---
 
 > “Tech support isn't about knowing everything. It's about knowing where to find the solution.” 🧠
 
-
-
-<!--
-**NkosinuttyMlalazi/NkosinuttyMlalazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
