@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💻 Nkosinathi Clement | IT Support Technician
+# 💻 Nkosinathi Clement Mlalazi | IT Support Technician
 
 Hi there! 👋  
 I'm an enthusiastic and dedicated **IT Support Technician** with a passion for solving technical problems, supporting users, and maintaining smooth-running systems. I specialize in providing technical assistance, troubleshooting hardware/software issues, and improving IT workflows.
